@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payoneer</string>
+    <string name="payment">Payment</string>
+    <string name="select_a_payment_mode">Select a payment mode</string>
+</resources>
